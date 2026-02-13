@@ -60,3 +60,7 @@ Executa o linter para verificar erros de estilo de código.
 ### `npm run preview`
 
 Inicia um servidor local para visualizar a versão de produção do seu aplicativo.
+
+### `Deploy`
+
+https://create-task-murex.vercel.app/
